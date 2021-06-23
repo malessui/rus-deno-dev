@@ -5,6 +5,8 @@
       "dom",
       "dom.iterable",
       "esnext"
-    ]
+    ],
+    "jsx": "react",
+    "jsxFragmentFactory": "Fragment"
   }
 }
